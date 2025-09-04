@@ -1,4 +1,6 @@
 # Boltz
+
+**Author - Soumalya Pramanik**
 **How to Convert .json file to .pdb file**
 
 **Step 1:** 
