@@ -3,7 +3,7 @@
 
 **Step 1:** 
 
-Install the latest version of [Python](https://https://www.python.org/downloads/). (Ignore if you have already)
+Install the latest version of [Python](https://www.python.org/downloads/). (Ignore if you have already)
 
 **Step 2:Biopython installation**
 
@@ -29,4 +29,4 @@ Create a folder in your computer where two files are present:
 
  e.g., `python3 converter.py structure.json output.pdb`
 
-**Check your local folder :)**
+**Check your local folder :) The last command line should create the .pdb file**
